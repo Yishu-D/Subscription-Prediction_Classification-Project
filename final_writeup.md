@@ -101,10 +101,10 @@ The entire training dataset of 59,400 records was split into 80/20 train vs. hol
 
 ### Tools
 
-Tableau for interactive visualizaiton and EDA
-Pandas and NumPy for data manipulation 
-Matplotlib and seaborn for plotting
-Scikitlearn for modeling
+- Tableau for interactive visualizaiton and EDA
+- Pandas and NumPy for data manipulation 
+- Matplotlib and seaborn for plotting
+- Scikitlearn for modeling
 
 ### Communication
 
